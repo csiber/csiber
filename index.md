@@ -22,12 +22,12 @@ I build things end-to-end: from the UI to the infra — and I can hold the screw
 ### 🚀 IdeaBoard – Community Idea Sharing (live)
 Collect, discuss, and upvote ideas. Cloudflare-native SaaS demo.
 - Repo: [github.com/csiber/ideaboard](https://github.com/csiber/ideaboard)
-- Live: [ideaboard.hswlp.com]https://ideaboard.hswlp.com
+- Live: [ideaboard.hswlp.com](https://ideaboard.hswlp.com)
 
 ### 🎼 Yume – Serverless Music & Image Sharing (v1.0)
 Nuxt 3 + Workers; D1/R2; stable & feature-complete 1.0.
 - Repo: [github.com/csiber/yume](https://github.com/csiber/yume)
-- Live: [yumekai.app]https://yumekai.app
+- Live: [yumekai.app](https://yumekai.app)
 
 ### 🧱 HSWLP:Next – Core Cloudflare Framework
 Authentication, email, billing, D1/R2/KV — the foundation other apps use.
@@ -36,7 +36,7 @@ Authentication, email, billing, D1/R2/KV — the foundation other apps use.
 ### 🏠 Homelab – Unraid + Unifi + Docker + Cloudflare
 My sysadmin/DevOps side. Diagrams, docs, scripts, configs.
 - Repo: [github.com/csiber/homelab](https://github.com/csiber/homelab)
-- Docs: [csiber.github.io/homelab]https://csiber.github.io/homelab/
+- Docs: [csiber.github.io/homelab](https://csiber.github.io/homelab/)
 
 ---
 
