@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I’m Csiber 👋
 
-<!--
-**csiber/csiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack **builder** with a Cloudflare-native mindset,  
+hands-on **sysadmin & homelab** background,  
+and practical skills in **electronics & hardware**.  
 
-Here are some ideas to get you started:
+I design, deploy, and maintain systems end-to-end:  
+from the UI, through the API, down to the server rack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I build
+
+- **HSWLP platform** – Cloudflare-native SaaS shells (Next.js, Workers, D1, R2, KV)  
+- **Yume** – serverless music & image sharing  
+- **IdeaBoard** – community idea voting platform  
+- **Talk** – Jitsi-powered conferencing with credit model  
+- **Homelab** – Unraid + Unifi + Docker + Cloudflare, documented with scripts & configs  
+
+---
+
+## 🛠️ Skills
+
+- 🧩 **Cloudflare stack**: Workers, Pages, D1, R2, KV, Turnstile, email (Resend/Brevo), Stripe  
+- 🖥️ **Frontend**: Next.js, Nuxt 3, React, Tailwind, Pinia  
+- 🐳 **DevOps / Infra**: Docker, Unraid, Unifi, Cloudflare Tunnel, backup & monitoring  
+- 🔐 **Ops discipline**: hardening, VLAN segmentation, automation scripts  
+- 🔧 **Electronics**: wiring, repair, instrumentation  
+
+---
+
+## 🌍 Portfolio Links
+
+- 🔗 [Homelab Documentation](https://csiber.github.io/homelab/)  
+- 🔗 [Yume](https://github.com/csiber/yume)  
+- 🔗 [IdeaBoard](https://github.com/csiber/ideaboard)  
+- 🔗 [HSWLP:Next](https://github.com/csiber/hswlp-next)  
+
+---
+
+## 📬 Contact
+
+💬 Reach me here on GitHub  
+📧 (optional: add email or LinkedIn later if nyitott vagy HR felé)
