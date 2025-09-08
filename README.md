@@ -32,8 +32,8 @@ from the UI, through the API, down to the server rack.
 ## 🌍 Portfolio Links
 
 - 🔗 [Homelab Documentation](https://csiber.github.io/homelab/)  
-- 🔗 [Yume](https://github.com/csiber/yume)  
-- 🔗 [IdeaBoard](https://github.com/csiber/ideaboard)  
+- 🔗 [Yume](https://github.com/csiber/hswlp-shell-yume)  
+- 🔗 [IdeaBoard](https://github.com/csiber/hswlp-shell-ideaboard)  
 - 🔗 [HSWLP:Next](https://github.com/csiber/hswlp-next)  
 
 ---
