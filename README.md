@@ -41,4 +41,4 @@ from the UI, through the API, down to the server rack.
 ## 📬 Contact
 
 💬 Reach me here on GitHub  
-📧 (optional: add email or LinkedIn later if nyitott vagy HR felé)
+📧 csiberius [at] gmail [dot] com
